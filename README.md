@@ -1,7 +1,7 @@
 # Roblox-Clone-Tutorial
 LEARN TO MAKE A LEGO SITE!
 
-
+![aaaaaaaaaaa](https://media.discordapp.net/attachments/724012957432021062/769947872266420285/Sin_titulo.png?width=1204&height=677)
 #### First Step - Organize yourself.
 
 You cant make a roblox clone overnight, actually, roblox clones take quite a good ammount of time. 
