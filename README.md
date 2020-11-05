@@ -1,3 +1,4 @@
+
  <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/307118850/926c7980-16e0-11eb-853b-4701d7259e4d" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TENEIDAE/Roblox-Clone-Tutorial" /><meta name="twitter:description" content="LEARN TO MAKE A LEGO SITE! Contribute to TENEIDAE/Roblox-Clone-Tutorial development by creating an account on GitHub." />
 <meta property="og:image" content="https://repository-images.githubusercontent.com/307118850/926c7980-16e0-11eb-853b-4701d7259e4d" /><meta property="og:site_name" content="GitHub" />
 <meta property="og:type" content="object" /><meta property="og:title" content="TENEIDAE/Roblox-Clone-Tutorial" /><meta property="og:url" content="https://github.com/TENEIDAE/Roblox-Clone-Tutorial" /><meta property="og:description" content="LEARN TO MAKE A LEGO SITE! Contribute to TENEIDAE/Roblox-Clone-Tutorial development by creating an account on GitHub." />
@@ -92,6 +93,36 @@ Hello everyone! My name is ____. Im currently looking for web developers experie
 
 If you're still unsure you can spend most of your time thinking.
 
+#### Hosting.
+Yes, Hosting. This is where most clones also die. They want to make a roblox clone and realize they need a host. If your site runs on php you can be lucky because there's some free hosts out there, but they dont really like the idea of letting you save anything to their harddrives. + Shell is not supported most of the times.
+
+Looking for a good host can be a pain in the ass (VPS). So here at Teneidae we made a whole pricing table with the best options. Thanks us later~ 
+
+##### VPS Pricing
+
+| Provider Name    | Cheapest VPS Price | HDD        | CPU Speed | Ram | Most Expensive VPS Price | HDD         | CPU Speed | Ram | Final Score |
+|------------------|--------------------|------------|-----------|-----|--------------------------|-------------|-----------|-----|-------------|
+| nodeclusters.com | 4$ / Month         | 200GB      | 1VCore    | 1GB | 12$ / Month              | 600GB       | 1Vcore    | 2GB | 8/10        |
+| Bluehost.com     | 19$ / Month        | 30GB (SSD) | 2Vcores   | 2GB | 59.9$ / Month            | 120GB (SSD) | 4Vcores   | 8GB | 9/10        |
+| Hostinger        | 3$ / Month         | 20GB (SSD) | 1Vcore    | 1GB | 33$ / MOnth              | 160GB (SSD) | 8Vcores   | 8GB | 9/10        |
+| iPage            | 20$ / Month        | 40GB (SSD) | 1Vcore    | 1GB | 79$ / Month              | 120GB (SSD) | 4Vcores   | 8GB | 8/10        |
+| Hostgator        | 19.95$ / Month     | 120GB      | 2Vcores   | 2GB | 39$ / Month              | 240GB       | 4Vcores   | 8GB | 9/10        |
+
+---
+Alright! Now you have developers, they know what they are going to use for the site, but they dont know anything about what **you** want. As the owner you must take responsability and do all the designs of how more less you want the site to look like. Make a good description explaining how you want everything work, and **never ever** say no to an engineer opinion. If they tell you something cant be done then be constructive and learn why.
+
+#### Some more tips:
+Dont use open sourced clones. Sites like thamur, retrimo and vertineer use all the same source code and it just feels like a scam because no actual effor was added.
+
+Even if it's "Temporary" you shouldnt use them. Dont "Temp" site because you want a community so bad. Make a good site and invite people. 
+
+#### Gaining Members.
+
+Many roblox clones allow partnerships with other clones, join some and promote your site by contacting the person in charge of the partnerships. Remember to act professionally and serious. Dont get too excited.
+
+#### Site rollout. 
+
+Your roblox clone is out and functioning fine.
 
 
 
