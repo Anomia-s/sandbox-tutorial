@@ -2,6 +2,9 @@
  <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/307118850/926c7980-16e0-11eb-853b-4701d7259e4d" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TENEIDAE/Roblox-Clone-Tutorial" /><meta name="twitter:description" content="LEARN TO MAKE A LEGO SITE! Contribute to TENEIDAE/Roblox-Clone-Tutorial development by creating an account on GitHub." />
 <meta property="og:image" content="https://repository-images.githubusercontent.com/307118850/926c7980-16e0-11eb-853b-4701d7259e4d" /><meta property="og:site_name" content="GitHub" />
 <meta property="og:type" content="object" /><meta property="og:title" content="TENEIDAE/Roblox-Clone-Tutorial" /><meta property="og:url" content="https://github.com/TENEIDAE/Roblox-Clone-Tutorial" /><meta property="og:description" content="LEARN TO MAKE A LEGO SITE! Contribute to TENEIDAE/Roblox-Clone-Tutorial development by creating an account on GitHub." />
+# THIS IS NOW OUTDATED
+> I am currently working on a new and renewed version, and much more in-depth. Check it out on Anomia repositories.
+
 # How to make a sandbox game
 
 ROBLOX clones have gotten pretty popular in the last years. Leading to many people wanting to know: How do I make one?
@@ -127,6 +130,3 @@ Many ROBLOX clones allow partnerships with other clones, join some and promote y
 #### Site rollout. 
 
 Your ROBLOX clone is out and functioning fine.
-
-
-
